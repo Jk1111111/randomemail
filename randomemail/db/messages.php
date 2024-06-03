@@ -18,7 +18,7 @@
  * Message provider configuration for the local_randomemail plugin.
  *
  * @package   local_randomemail
- * @copyright Year, You Name <your@email.address>
+ * @copyright 2024, Gautam Shukla
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
